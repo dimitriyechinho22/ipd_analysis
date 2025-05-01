@@ -8,7 +8,7 @@ This setup uses Python 3 and venv for environment isolation.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your_username/your_repo.git](https://github.com/dimitriyechinho22/ipd_analysis.git
+git clone https://github.com/dimitriyechinho22/ipd_analysis.git
 cd ipd_analysis
 ```
 2. **Create and activate venv**
