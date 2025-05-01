@@ -1,9 +1,9 @@
-#Launch Guide#
+# Launch Guide
 
 Below is a presented guide on setting up and runnning the experiments.
 This setup uses Python 3 and venv for environment isolation.
 
-###  Launch steps:
+##  Launch steps:
 
 1. **Clone the repository**
 
